@@ -4,3 +4,6 @@
 all: docs
 
 docs: README.html
+
+check:
+	cmudict-tools validate -Wall en-GB-x-rp.dict

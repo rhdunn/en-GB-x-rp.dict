@@ -18,6 +18,4 @@ The context tags are defined in the `cainteoir.ttl` file of the
 
 Copyright (C) 2017 Reece H. Dunn (Cainteoir Technologies). All rights reserved.
 
-Use of this dictionary for any research or commercial purpose is completely
-unrestricted.  If you make use of or redistribute this material, we would
-appreciate acknowlegement of its origin.
+This dictionary is released under a [2-clause BSD](COPYING) license.

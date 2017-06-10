@@ -8,7 +8,7 @@ Using John Wells' lexical sets, it has the following mergers:
  *  LOT-CLOTH
  *  THOUGHT-NORTH-FORCE
  *  PALM-START
- *  KIT-HAPPY
+ *  KIT-HAPPY-EXPLORE
  *  COMMA-LETTER
 
 The context tags are defined in the `cainteoir.ttl` file of the
